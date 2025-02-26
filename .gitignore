@@ -39,3 +39,19 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Pastas do Next.js e dependências
+.next/
+node_modules/
+
+# Configuração de ambiente
+.env*
+.env.local
+.env.development
+.env.production
+
+# Arquivos gerados automaticamente
+.next-env.d.ts
+
+# Lock de dependências (opcional)
+package-lock.json

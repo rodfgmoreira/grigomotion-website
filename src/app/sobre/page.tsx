@@ -2,10 +2,11 @@ export default function Sobre() {
     return (
         <main className="flex flex-col items-center justify-center bg-gray-100 dark:bg-black min-h-screen mt-[-6rem] px-6 py-12">
             <div className="max-w-3xl text-center">
-                <h1 className="text-[72px] sm:text-4xl font-bold">
-                    Henrique Grigoletto - Motion Designer
+                <h1 className="text-[72px] sm:text-5xl md:text-6xl font-bold leading-tight sm:leading-snug break-words mt-20 sm:mt-12">
+                    Henrique Grigoletto 
+                    <span className="block sm:inline"> - Motion Designer</span>
                 </h1>
-                <p className="mt-4 text-lg leading-relaxed">
+                <p className="mt-6 text-lg leading-relaxed">
                     Eu sou aquele cara que adora transformar ideias em vídeos que chamam a atenção. Meu trabalho é 
                     dar vida a projetos através da edição e animação, sempre buscando um visual criativo e impactante.
                 </p>

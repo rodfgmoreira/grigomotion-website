@@ -22,7 +22,7 @@ export default function Home() {
         </h1>
 
         <h3 className="description text-[5vw] md:text-[2.5rem] lg:text-[3.5rem] font-medium max-w-[90%] md:max-w-[60%] pt-12 md:pt-16">
-          Seu parceiro de motion que cria identidades, sistemas e aplicações.
+        Motion Designer especializado em dar vida a identidades visuais
         </h3>
 
         <Link

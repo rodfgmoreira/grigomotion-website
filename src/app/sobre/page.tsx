@@ -7,17 +7,13 @@ export default function Sobre() {
                     <span className="block sm:inline"> - Motion Designer</span>
                 </h1>
                 <p className="mt-6 text-lg leading-relaxed">
-                    Eu sou aquele cara que adora transformar ideias em vídeos que chamam a atenção. Meu trabalho é 
-                    dar vida a projetos através da edição e animação, sempre buscando um visual criativo e impactante.
+                    Aqui você pode conhecer melhor o meu trabalho, explorar meus projetos, acessar minhas redes sociais, entrar em contato comigo e descobrir um pouco mais sobre mim.
                 </p>
                 <p className="mt-4 text-lg leading-relaxed">
-                    Tenho experiência com todo tipo de conteúdo – de vídeos para redes sociais até comerciais e 
-                    produções mais complexas. Acredito que cada detalhe importa, e me esforço para garantir que cada 
-                    projeto tenha a personalidade e o impacto que você deseja.
+                    Atuo como <strong>Motion Designer</strong> há cerca de um ano e estou sempre em busca de evolução profissional — seja por meio de cursos, e-books, workshops ou eventos da área.
                 </p>
                 <p className="mt-4 text-lg leading-relaxed">
-                    Se você precisa de um toque especial nos seus vídeos, estou aqui para ajudar a levar suas ideias 
-                    para o próximo nível!
+                    Estou disponível para contratações e freelas, com foco principal em animação 2D.
                 </p>
             </div>
         </main>
